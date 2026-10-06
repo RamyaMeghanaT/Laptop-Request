@@ -1,7 +1,0 @@
-##SLA Due - (Before-Update)
-(function executeRule(current, previous /*null when async*/) {
-
-	// Add your code here
-	current.setValue('u_sla_due',gs.nowDateTime());
-
-})(current, previous);
